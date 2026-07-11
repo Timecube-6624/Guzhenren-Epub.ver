@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "st";
+    src:local("st"),
+        local("宋体"),
+        local("DK-SONGTI"),
+        local("STSongti"),
+        local("STSong"),
+        local("Song S");
+}
+@font-face {
+    font-family: "kt";
+    src:local("kt"),
+        local("楷体"),
+	     local("DK-KAITI"),
+	     local("STKaiti"),
+        local("STKai"),
+        local("MKai PRC");
+}
+@font-face {
+    font-family: "ht";
+    src:local("DK-XIHEITI"),
+          url("../Fonts/ht.ttf"),
+        local("ht"),
+        local("黑体"),local("微软雅黑"),       
+	     local("STHeiti"),
+	     local("STHei"),
+	     local("MYing Hei S");
+}
+@font-face {
+    font-family: "fs";
+    src:local("DK-FANGSONG"),
+          url("../Fonts/fs.ttf"),
+        local("fs"),
+        local("仿宋"),
+	     local("STKaiti"),
+        local("STKai"),
+        local("MKai PRC");
+}
+@font-face {
+    font-family: "h2";
+    src:local("DK-XIAOBIAOSONG"),
+          url("../Fonts/h2.ttf"),
+	     local("h2"),
+        local("方正大标宋_GBK"),
+        local("方正大标宋简体"), 
+        local("方正大标宋繁体"),
+        local("STHeiti"),
+	     local("STHei"),
+	     local("MYing Hei S");     
+}
+
+@font-face {
+	font-family:"qigong";
+	src:local("迷你简启体"),
+	     url("../Fonts/qigong.ttf");
+}
+
+@font-face {
+	font-family:"zktqkt";
+	src:local("字酷堂清楷体"),
+	     url("../Fonts/zktqkt.ttf");
+}
+
+.fs{font-family: "fs"}
